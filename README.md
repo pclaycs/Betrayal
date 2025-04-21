@@ -1,3 +1,3 @@
 # Betrayal
 
-Outdated.
+Betrayal repo for hosting Betrayal release binaries.
